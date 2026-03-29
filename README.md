@@ -1,6 +1,3 @@
-# portfolio
-Portfolio Intro
-
 # Sherrica Bryars – Data Analytics Portfolio
 
 Welcome to my portfolio. I specialize in business intelligence, operations analysis, and data-driven decision-making.
