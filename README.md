@@ -1,23 +1,26 @@
 # Hi, I’m Sherrica!
 
-I’m a Business Intelligence and Data Analytics professional with 10+ years of experience in IT operations, currently transitioning into data-focused roles. I specialize in analyzing complex datasets and translating them into actionable insights that support operational efficiency and business decision-making.
+I’m a Business Intelligence and Data Analytics professional with 10+ years of experience in IT operations, currently transitioning into data-focused roles. I analyze complex datasets and translate them into actionable insights that support operational efficiency and business decision-making.
 
-My work focuses on exploratory data analysis, data visualization, and identifying trends across real-world datasets using tools like Python, Tableau, SAS Viya, KNIME, and Excel.
-
-This portfolio highlights projects in revenue analysis, profitability, and healthcare data—demonstrating my ability to uncover insights, solve business problems, and communicate findings effectively.
+My work includes exploratory data analysis, data visualization, and identifying trends across real-world datasets using tools like Python, Tableau, SAS Viya, KNIME, and Excel.
 
 ---
 
 ## Featured Projects
 
 - **E-commerce Revenue Analysis**  
-  https://github.com/sherricabryars/ecommerce-revenue-analysis  
+  https://github.com/sherricabryars/ecommerce-revenue-analysis
+  Analyzed e-commerce transaction data to identify key revenue trends, customer behavior, and key drivers of sales performance.  
 
 - **Furniture Profitability Analysis**  
-  https://github.com/sherricabryars/furniture-profitability-analysis  
+  https://github.com/sherricabryars/furniture-profitability-analysis
+  Evaluated product-level profitability to identify margin trends, underperforming products, and opportunities for optimization.
+ 
 
 - **Healthcare Claims Analysis**  
-  https://github.com/sherricabryars/healthcare-claims-analysis  
+  https://github.com/sherricabryars/healthcare-claims-analysis
+  Explored healthcare claims data to uncover cost patterns, utilization trends, and opportunities to improve operational efficiency.
+ 
 
 ---
 
